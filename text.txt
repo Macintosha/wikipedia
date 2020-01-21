@@ -1,0 +1,2 @@
+Attila_Czene->DEV_Araterelen: 4 path: ['Attila_Czene', 'Swimming_at_the_1998_World_Aquatics_Championships_%E2%80%93_Men%27s_4_%C3%97_100_metre_medley_relay', 'New_Zealand', 'Cook_Strait', 'DEV_Aratere']
+DEV_Aratere->Attila_Czenelen: 5 path: ['DEV_Aratere', 'New_Zealand', 'Summer_Olympics', '1996_Summer_Olympics', 'Swimming_at_the_1996_Summer_Olympics_%E2%80%93_Men%27s_200_metre_individual_medley', 'Attila_Czene']
